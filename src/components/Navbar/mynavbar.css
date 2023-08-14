@@ -1,0 +1,70 @@
+.custom-navbar {
+  background-color: #333;
+  padding: 20px;
+  font-size: 18px;
+}
+@media (max-width: 768px) {
+  .custom-navbar {
+    padding: 10px; /* Cambia el padding para pantallas móviles */
+  }
+}
+
+.nav-link,
+.navbar-brand {
+  color: #fff !important;
+  position: relative;
+  transition: color 0.3s;
+}
+
+.navbar-nav {
+
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  background-color: #00A652;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: width 0.5s;
+}
+
+.nav-link:hover,
+.nav-link:focus, /* Agrega esta regla para los enlaces seleccionados */
+.nav-link:active {
+  color: #00A652 !important;
+}
+
+.nav-link:hover::after,
+.nav-link:focus::after, /* Agrega esta regla para los enlaces seleccionados */
+.nav-link:active::after {
+  width: calc(100% - 20px);
+}
+.dropdown-menu {
+  background-color: #fff; /* Color de fondo del menú desplegable */
+}
+
+.dropdown-item {
+  transition: background-color 0.3s; /* Transición suave para el cambio de fondo */
+}
+
+.dropdown-item:hover {
+  background-color:#ECE2D0; /* Cambia el color de fondo al hacer hover */
+  color: #000 !important; /* Cambia el color de texto al hacer hover */
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h3 {
+  font-weight: lighter;
+  font-size: medium;
+}
