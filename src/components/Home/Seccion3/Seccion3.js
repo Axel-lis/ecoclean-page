@@ -2,9 +2,9 @@ import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import 'bootstrap/dist/css/bootstrap.min.css'; 
 
-import imagen1 from '../../../assets/imagen1.jpg';
-import imagen2 from '../../../assets/imagen2.jpg';
-import imagen3 from '../../../assets/imagen3.webp';
+import imagen1 from '../../../assets/seccion-3/lore1.png';
+
+
 
 const carouselStyle = {
   width: '100%', 
@@ -12,28 +12,21 @@ const carouselStyle = {
   margin: '0 auto', // Centrar el carousel horizontalmente
   objectFit: 'cover'
 };
-
+ //seccion-3 sobre  nosotros
 function Seccion3() {
   return (
     <Carousel style={carouselStyle}>
       <Carousel.Item>
         <img src={imagen1} alt="First slide" style={carouselStyle}/>
         <Carousel.Caption>
-          <h3>First slide label</h3>
+          <h3>Sobre Nosotros</h3>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img src={imagen2} alt="First slide" style={carouselStyle}/>
+        <img src={imagen1} alt="First slide" style={carouselStyle}/>
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item>
-        <img src={imagen3} alt="First slide" style={carouselStyle}/>
-        <Carousel.Caption>
-          <h3>First slide label</h3>
+          <h3>Sobre Nosotros</h3>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </Carousel.Caption>
       </Carousel.Item>
