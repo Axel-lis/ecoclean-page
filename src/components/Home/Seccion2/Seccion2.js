@@ -3,9 +3,9 @@ import Carousel from 'react-bootstrap/Carousel';
 import 'bootstrap/dist/css/bootstrap.min.css'; 
 import '../Seccion1/seccion1.css';
 
-import seccion2 from '../../../assets/seccion-2/nudo3.png';
-
-
+import seccion1 from '../../../assets/seccion-2/banner-1-1.jpg';
+import seccion2 from '../../../assets/seccion-2/banner-1-2-1.jpg';
+import seccion3 from '../../../assets/seccion-2/banner-nudo.jpg';
 
 
 const carouselStyle = {
@@ -19,25 +19,14 @@ function Seccion2() {
   return (
     <Carousel style={carouselStyle}>
       <Carousel.Item>
-        <img src={seccion2} alt="First slide" style={carouselStyle}/>
-        <Carousel.Caption>
-          <h3>Nudo de Bruja</h3>
-          <p className='p-seccion'>Una experiencia para conectar con los aromas y los mensajes que tienen para darnos✨</p>
-        </Carousel.Caption>
+        <img src={seccion1} alt="First slide" style={carouselStyle}/>
       </Carousel.Item>
       <Carousel.Item>
         <img src={seccion2} alt="First slide" style={carouselStyle}/>
-        <Carousel.Caption>
-          <h3>Nudo de Bruja</h3>
-          <p className='p-seccion'>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-        </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img src={seccion2} alt="First slide" style={carouselStyle}/>
-        <Carousel.Caption>
-          <h3>Nudo de Bruja</h3>
-          <p className='p-seccion'>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-        </Carousel.Caption>
+        <img src={seccion3} alt="First slide" style={carouselStyle}/>
+
       </Carousel.Item>
     </Carousel>
   );

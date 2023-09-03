@@ -7,7 +7,7 @@ import Banner1 from "./Banner/Banner1";
 import Banner2 from "./Banner/Banner2";
 import Banner3 from "./Banner/Banner3";
 import Footer from "./Footer/Footer";
-import EcoMap from "../Map/Map";
+
 const Home = () =>{
     return(
         <div>
