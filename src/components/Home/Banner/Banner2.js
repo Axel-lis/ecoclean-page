@@ -62,7 +62,7 @@ const colStyle = {
             <img className="card-img-top" src={velitas} alt='imagentop' />
               <div className="card-body">
                 <h5 className="card-title">Velitas Aromatizadas</h5>
-                <p className="card-text">“el fuego es uno de los principales elementos transmutadores que acompaña la mayoría de los rituales y está presente en todos los pedidos y agradecimientos que hacemos”. La manera más fácil de llegar al elemento fuego, es a través de las velas. la vela per sé ya es un elemento poderosísimo, que va a activar la energía”.</p>
+                <p className="card-text">“El fuego es uno de los principales elementos transmutadores que acompaña la mayoría de los rituales y está presente en todos los pedidos y agradecimientos que hacemos”. La manera más fácil de llegar al elemento fuego, es a través de las velas. la vela per sé ya es un elemento poderosísimo, que va a activar la energía”.</p>
                 <a href="https://www.instagram.com/p/CXBce58LSOr/?img_index=1" class="btn btn-primary">Aprende más!</a>
               </div>
             </div>
