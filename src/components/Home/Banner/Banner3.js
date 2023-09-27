@@ -64,13 +64,13 @@ function Banner3() {
       <Accordion.Item eventKey="0">
         <Accordion.Header>Más sobre Ecoclean</Accordion.Header>
         <Accordion.Body>
-         <a href='https://www.lapampanoticias.com.ar/noticias/emprendedores/ecoclean-la-limpieza-facil-eficaz-y-eco-friendly-es-posible/'>Leer nota para el diario La Pampa Noticias</a>
+         <a href='https://www.lapampanoticias.com.ar/noticias/emprendedores/ecoclean-la-limpieza-facil-eficaz-y-eco-friendly-es-posible/' target="_blank" rel="noreferrer" >Leer nota para el diario La Pampa Noticias</a>
          <br />  <br />
-         <a href='https://www.youtube.com/watch?v=YJsEQr2aMzo'>Entrevista televisiva para La Clave del éxito</a>
+         <a href='https://www.youtube.com/watch?v=YJsEQr2aMzo' target="_blank" rel="noreferrer" >Entrevista televisiva para La Clave del éxito</a>
          <br />  <br />
-         <a href='http://ecocleanlp.000webhostapp.com/index.htm'>Más información sobre productos de EcoClean</a>
+         <a href='http://ecocleanlp.000webhostapp.com/index.htm' target="_blank" rel="noreferrer" >Más información sobre productos de EcoClean</a>
          <br />  <br />
-         <a href='https://www.instagram.com/ecocleanlp/'>Nuestra red de Instagram</a>
+         <a href='https://www.instagram.com/ecocleanlp/' target="_blank" rel="noreferrer" >Nuestra red de Instagram</a>
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>

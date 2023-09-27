@@ -15,7 +15,7 @@ function Footer() {
             <h5 className="text-white mb-3">Página Web desarrollada por:</h5>
             <p className="small text-white">Axel Liscovsky || Web App Developer</p>
             <ul className="list-unstyled text-muted">
-              <li>🌐<a href="https://www.linkedin.com/in/axel-liscovsky/"> LinkedIn Axel Liscovsky</a></li>
+              <li>🌐<a href="https://www.linkedin.com/in/axel-liscovsky/" target="_blank" rel="noreferrer" > LinkedIn Axel Liscovsky</a></li>
               <li>✉️<a href="mailto:axelliscovsky@outlook.com.ar">  Contáctame!</a></li>
             </ul>
           </Col>
