@@ -13,7 +13,9 @@ import borax from '../../../assets/banners/borax.jpg';
 import alumbre from '../../../assets/banners/alumbre.jpg';
 import capsulas from '../../../assets/banners/capsulas.jpg';
 import nueces from '../../../assets/banners/nueces.jpg'
-
+import carbonato from '../../../assets/banners/carbonato.jpg';
+import powdercolor from '../../../assets/banners/powdercolor.jpg';
+import bombasecado from '../../../assets/banners/bombasecado.png';
 import './banner1.css'
 
 
@@ -143,6 +145,38 @@ const colStyle = {
                 <p className="card-text">Detergente natural a base de frutos secos. Una alternativa 100% orgánica a los detergentes sintéticos.Son uno de los detergentes más sostenibles que existen hoy en día.
 Son frutos del árbol Sapindus Mukorossi y se utilizan tal cual, sin apenas procesarlos.</p>
                 <a href="https://www.instagram.com/p/CwXk9eSum02/"target="_blank" rel="noreferrer"   class="btn btn-primary">Aprende más!</a>
+              </div>
+      </div>
+      </Col>
+      </Row>
+      <Row>
+      <Col style={colStyle}>
+      <div className="card w-18rem">
+            <img className="card-img-top" src={carbonato} alt='imagentop' />
+              <div className="card-body">
+                <h5 className="card-title">Carbonato de sodio</h5>
+                <p className="card-text">Aunque se obtiene del bicarbonato de sodio, la estructura química es diferente, los usos son muy similares pero mucho más potentes.</p>
+                <a href="https://www.instagram.com/p/CygKn49ujro/?img_index=1"target="_blank" rel="noreferrer"   class="btn btn-primary">Aprende más!</a>
+              </div>
+      </div>
+      </Col>
+      <Col style={colStyle}>
+      <div className="card w-18rem">
+            <img className="card-img-top" src={powdercolor} alt='imagentop' />
+              <div className="card-body">
+                <h5 className="card-title">Magic Powder para ropa de color</h5>
+                <p className="card-text">Con percarbonato + Bicarbonato de sodio, compuesto orgánico que impulsa el color en lavados de tejidos. Desengrasante, quitamanchas, ablandador de aguas pesadas, fijador de colores eficiente.</p>
+                <a href="https://www.instagram.com/p/CygKn49ujro/?img_index=1"target="_blank" rel="noreferrer"   class="btn btn-primary">Aprende más!</a>
+              </div>
+      </div>
+      </Col>
+      <Col style={colStyle}>
+      <div className="card w-18rem">
+            <img className="card-img-top" src={bombasecado} alt='imagentop' />
+              <div className="card-body">
+                <h5 className="card-title">Bombas de Secado</h5>
+                <p className="card-text"> Estas bolas de secado 100% de lana de oveja, sin rellenos rebotan en el interior de la secadora ayudando a separar la ropa y mejorando la circulación del aire entre las prendas.</p>
+                <a href="https://www.instagram.com/p/Cq20YpVuQjR/?img_index=1"target="_blank" rel="noreferrer"   class="btn btn-primary">Aprende más!</a>
               </div>
       </div>
       </Col>
