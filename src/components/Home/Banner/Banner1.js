@@ -47,7 +47,7 @@ function Banner1() {
                 cubiertos y elimina los malos olores.
               </p>
               <a
-                href="http://ecocleanlp.000webhostapp.com/index_bicarbonato.htm"
+                href="https://ecoclean-original.vercel.app/index_bicarbonato.htm"
                 target="_blank"
                 rel="noreferrer"
                 class="btn btn-primary"
@@ -70,7 +70,7 @@ function Banner1() {
                 ropa. Potencia la acción del detergente en lavado y quita manchas dificiles.
               </p>
               <a
-                href="http://ecocleanlp.000webhostapp.com/index_percarbonato.htm"
+                href="https://ecoclean-original.vercel.app/index_percarbonato.htm"
                 target="_blank"
                 rel="noreferrer"
                 class="btn btn-primary"
@@ -93,7 +93,7 @@ function Banner1() {
                 disolver suciedades inorgánicas o minerales (como el sarro) y manchas de óxido.
               </p>
               <a
-                href="http://ecocleanlp.000webhostapp.com/index_vinagre.htm"
+                href="https://ecoclean-original.vercel.app/vinagre.htm"
                 target="_blank"
                 rel="noreferrer"
                 class="btn btn-primary"
@@ -116,7 +116,7 @@ function Banner1() {
                 cubiertos y elimina los malos olores.
               </p>
               <a
-                href="http://ecocleanlp.000webhostapp.com/index_diatomeas.htm"
+                href="https://ecoclean-original.vercel.app/index_diatomeas.htm"
                 target="_blank"
                 rel="noreferrer"
                 class="btn btn-primary"
@@ -139,7 +139,7 @@ function Banner1() {
                 ambiente, sin componentes tóxicos.
               </p>
               <a
-                href="http://ecocleanlp.000webhostapp.com/index_magicpowder.htm"
+                href="https://ecoclean-original.vercel.app/index_magicpowder.htm"
                 target="_blank"
                 rel="noreferrer"
                 class="btn btn-primary"
@@ -160,7 +160,7 @@ function Banner1() {
                 ropa.
               </p>
               <a
-                href="http://ecocleanlp.000webhostapp.com/index_borax.htm"
+                href="https://ecoclean-original.vercel.app/index_borax.htm"
                 target="_blank"
                 rel="noreferrer"
                 class="btn btn-primary"
