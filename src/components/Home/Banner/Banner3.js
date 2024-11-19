@@ -68,7 +68,7 @@ function Banner3() {
          <br />  <br />
          <a href='https://www.youtube.com/watch?v=YJsEQr2aMzo' target="_blank" rel="noreferrer" >Entrevista televisiva para La Clave del éxito</a>
          <br />  <br />
-         <a href='http://ecocleanlp.000webhostapp.com/index.htm' target="_blank" rel="noreferrer" >Más información sobre productos de EcoClean</a>
+         <a href='https://www.instagram.com/ecocleanlp/' target="_blank" rel="noreferrer" >Más información sobre productos de EcoClean</a>
          <br />  <br />
          <a href='https://www.instagram.com/ecocleanlp/' target="_blank" rel="noreferrer" >Nuestra red de Instagram</a>
         </Accordion.Body>
