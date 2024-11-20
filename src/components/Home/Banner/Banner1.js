@@ -93,7 +93,7 @@ function Banner1() {
                 disolver suciedades inorgánicas o minerales (como el sarro) y manchas de óxido.
               </p>
               <a
-                href="https://ecoclean-original.vercel.app/vinagre.htm"
+                href="https://ecoclean-original.vercel.app/index_vinagre.htm"
                 target="_blank"
                 rel="noreferrer"
                 class="btn btn-primary"
