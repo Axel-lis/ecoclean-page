@@ -200,7 +200,7 @@ function Banner1() {
               <h5 className="card-title">Cápsulas hidrosolubles de lavado</h5>
               <p className="card-text">
                 En contacto con el agua el envoltorio se disuelve y queda solamente la esencia del producto dentro del
-                recipiente o en la botella: ✔️ Es eco. ✔️Libre de tóxicos y biodegradable. ✔️Envase sin plástico
+                recipiente o en la botella: ✔️ Es ecológico. ✔️Libre de tóxicos y biodegradable. ✔️Envase sin plástico
                 ✔️Limpieza eficiente en agua fría. ✔️No se necesita usar suavizante..
               </p>
               <a
