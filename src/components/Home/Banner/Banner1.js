@@ -5,6 +5,9 @@ import Col from 'react-bootstrap/Col';
 import { IconRecycle, IconPlant2 } from '@tabler/icons-react';
 
 import bicarbonato from '../../../assets/banners/bicarbonato.jpg';
+import amonio from '../../../assets/banners/amonio.jpg';
+import kitsahumo from '../../../assets/banners/kit-sahumo.jpg';
+import fogonero from '../../../assets/banners/fogonero.png';
 import percarbonato from '../../../assets/banners/percarbonato.jpg';
 import vinagre from '../../../assets/banners/vinagre.jpg';
 import tierra from '../../../assets/banners/tierra.jpg';
@@ -104,6 +107,76 @@ function Banner1() {
           </div>
         </Col>
       </Row>
+      <Row>
+        <Col style={colStyle}>
+          <h1>
+            <IconPlant2 style={iconStyle} />
+          </h1>
+          <div className="card w-18rem">
+            <img className="card-img-top" src={amonio} alt="imagentop" />
+            <div className="card-body">
+              <h5 className="card-title">Amonio Cuaternario</h5>
+              <p className="card-text">
+                Protección y desinfección en cada rincón.
+                 Nuestro Amonio Cuaternario es ideal para mantener tu hogar libre de virus, hongos y bacterias, ofreciendo una limpieza profunda y además le podes dar el aroma que más te guste. Conocé el componente desinfectante de la mayoría de productos de limpieza del mercado.
+              </p>
+              <a
+                href="https://www.instagram.com/p/DCIR8QsPrJe/"
+                target="_blank"
+                rel="noreferrer"
+                class="btn btn-primary"
+              >
+                Aprende más!
+              </a>
+            </div>
+          </div>
+        </Col>
+          <Col style={colStyle}>
+          <h1>
+            <IconPlant2 style={iconStyle} />
+          </h1>
+          <div className="card w-18rem">
+            <img className="card-img-top" src={kitsahumo} alt="imagentop" />
+            <div className="card-body">
+              <h5 className="card-title">Kit Sahumador</h5>
+              <p className="card-text">
+                Protección y armonía en cada rincón.
+                Nuestro Kit Sahumador es el ideal regalo de amor. Conocé los distintos aromas, y elige el que te guste.
+              </p>
+              <a
+                href="https://www.instagram.com/ecocleanlp/"
+                target="_blank"
+                rel="noreferrer"
+                class="btn btn-primary"
+              >
+                Aprende más!
+              </a>
+            </div>
+          </div>
+        </Col>
+         <Col style={colStyle}>
+          <h1>
+            <IconPlant2 style={iconStyle} />
+          </h1>
+          <div className="card w-18rem">
+            <img className="card-img-top" src={fogonero} alt="imagentop" />
+            <div className="card-body">
+              <h5 className="card-title">Fogoneros</h5>
+              <p className="card-text">
+                Decoran, calefaccionan, aromatizan y chau mosquitos. Para disfrutar con amigos, familia y cualquier ocasión. ¡Es tiempo de Relax!
+              </p>
+              <a
+                href="https://www.instagram.com/p/C0P4Qfjuq6G/"
+                target="_blank"
+                rel="noreferrer"
+                class="btn btn-primary"
+              >
+                Aprende más!
+              </a>
+            </div>
+          </div>
+        </Col>
+        </Row >
       <Row>
         <Col style={colStyle}>
           <div className="card w-18rem">
